@@ -1,1 +1,7 @@
-off
+{
+  "key": "http://188.166.218.222:2032/putraganteng",
+  "target": "{target}",
+  "port": "{port}",
+  "time": "{duration}",
+  "methods": "mix"
+}
